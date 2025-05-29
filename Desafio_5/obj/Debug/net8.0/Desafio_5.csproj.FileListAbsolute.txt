@@ -1,0 +1,14 @@
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\obj\Debug\net8.0\Desafio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\obj\Debug\net8.0\Desafio_5.AssemblyInfoInputs.cache
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\obj\Debug\net8.0\Desafio_5.AssemblyInfo.cs
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\obj\Debug\net8.0\Desafio_5.csproj.CoreCompileInputs.cache
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\bin\Debug\net8.0\Desafio_5.exe
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\bin\Debug\net8.0\Desafio_5.deps.json
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\bin\Debug\net8.0\Desafio_5.runtimeconfig.json
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\bin\Debug\net8.0\Desafio_5.dll
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\bin\Debug\net8.0\Desafio_5.pdb
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\obj\Debug\net8.0\Desafio_5.dll
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\obj\Debug\net8.0\refint\Desafio_5.dll
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\obj\Debug\net8.0\Desafio_5.pdb
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\obj\Debug\net8.0\Desafio_5.genruntimeconfig.cache
+C:\Users\bzoa\Documents\Desafio_Basico_POO\Desafio_5\obj\Debug\net8.0\ref\Desafio_5.dll
